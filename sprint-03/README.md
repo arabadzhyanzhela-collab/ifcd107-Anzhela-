@@ -1,7 +1,7 @@
 # Sprint 3 · Primer modelo en producción — 5Green
 
 - **Reto:** «¿Puede un modelo avisar de las reservas con riesgo de cancelarse y que mi equipo lo consulte desde otra aplicación?»
-- **Fechas:** 26–27/10/2026 · **Roles:** Scrum Master: Andrii · Responsable técnico: Miguel
+- **Fechas:** 26–27/10/2026 · **Roles:** Scrum Master: Cristina · Responsable técnico: Andrii
 
 ## Qué se entrega (pendiente)
 
@@ -15,10 +15,10 @@
 
 | Persona | GitHub | Aportación |
 |---|---|---|
-| Andrii | [@usuario] | Scrum Master. Columnas «trampa» y fuga de datos |
-| Miguel | [@usuario] | Responsable técnico. Consulta SQL y variable objetivo |
+| Cristina | [@usuario] | Scrum Master. Columnas «trampa» y fuga de datos |
+| Andrii| [@usuario] | Responsable técnico. Consulta SQL y variable objetivo |
 | Fran | [@usuario] | Experimento de AutoML y publicación de la API |
-| Cristina | [@usuario] | Umbral de alerta pensado en dinero |
+| Miguel | [@usuario] | Umbral de alerta pensado en dinero |
 | Anzhela | [@usuario] | Informe de recursos y costes, prueba del cierre |
 
 ## Cómo reproducirlo
