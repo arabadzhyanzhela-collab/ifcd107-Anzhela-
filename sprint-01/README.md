@@ -10,6 +10,8 @@
 |---|---|
 | `informe_oportunidades.md` | Informe de 2–3 páginas con 7 apartados: resumen ejecutivo, lo que hemos entendido, tabla de 5 casos, priorización impacto × facilidad, riesgos y checklist, recomendación de piloto (8.500 €, dentro del límite de 15.000 €) y límites del informe, más la declaración de uso de IA |
 | `checklist_etico_v1.md` | Checklist de IA responsable del caso priorizado (predicción de cancelaciones): semáforo ámbar con 4 riesgos y su responsable. Se actualizará en el proyecto final (requisito R6) |
+| `sprint-01/empatia_hmw_plantillas (1).md  ` | Mapa de empatía y "How might we" |
+| `sprint-01/Cuadro de la Entrevista (1).docx` | Detalles de los Casos de Uso  |
 
 **Requisitos de la ficha que cumple:** 5 casos (2 propios: segmentación y control de fotos), 3 modalidades de dato (tabular, texto e imagen), 1 caso que se resuelve sin IA (regla de recordatorios), matriz impacto × facilidad y piloto de hasta 15.000 €.
 
