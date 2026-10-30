@@ -43,11 +43,11 @@ No hay código. Los documentos se leen directamente en GitHub. El tablero se mon
 
 | Valorada / Valora | Anzhela | Cristina | Miguel | Fran | Andrii |
 |---|---|---|---|---|---|
-| Anzhela | — | | | | |
-| Cristina | | — | | | |
-| Miguel | | | — | | |
-| Fran | | | | — | |
-| Andrii | | | | | — |
+| Anzhela | 4 | | | | |
+| Cristina | | 4 | | | |
+| Miguel | | | 4 | | |
+| Fran | | | | 4 | |
+| Andrii | | | | | 4 |
 
 ## Retrospectiva
 
