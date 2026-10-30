@@ -6,8 +6,8 @@ Un entregable está **hecho** solo si las 8 casillas son «Sí». Si una está e
 
 | # | Criterio | Sí / No |
 |---|---|---|
-| 1 | **Reproducible:** otra persona puede volver a leerlo o ejecutarlo desde cero y obtiene lo mismo | ☐ |
-| 2 | **README:** explica qué es, quién hizo qué y cómo se usa o reproduce | ☐ |
+| 1 | **Reproducible:** otra persona puede volver a leerlo o ejecutarlo desde cero y obtiene lo mismo | si |
+| 2 | **README:** explica qué es, quién hizo qué y cómo se usa o reproduce | si |
 | 3 | **En GitHub:** está dentro de la carpeta `sprint-XX/`, con commits de las personas que han trabajado (cada una con su cuenta) | ☐ |
 | 4 | **Autoevaluación y coevaluación** rellenadas en el README | ☐ |
 
