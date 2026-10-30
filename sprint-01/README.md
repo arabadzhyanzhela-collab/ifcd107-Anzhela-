@@ -1,7 +1,7 @@
 # Sprint 1 · Auditoría de oportunidades de IA — 5Green
 
 - **Reto:** «¿Qué cinco cosas puedo hacer con IA, cuál primero y con qué riesgos?»
-- **Cliente:** TurisData Canarias · **Fechas:** 20–21/10/2026
+- **Cliente:** TurisData Canarias · **Fechas:** 20–23/10/2026
 - **Roles del sprint:** Scrum Master: Anzhela · Responsable técnico: Andrii
 
 ## Qué se entrega
