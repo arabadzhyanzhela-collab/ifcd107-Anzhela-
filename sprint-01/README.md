@@ -54,4 +54,4 @@ No hay código. Los documentos se leen directamente en GitHub.
 
 ## Declaración de uso de IA
 
-Hemos usado asistentes de IA (Gemini / Claude) para generar ideas iniciales de casos de uso y para revisar el estilo y la claridad. La selección de casos, la clasificación técnica y la evaluación ética las ha verificado el equipo. Las frases del cliente proceden de nuestras notas de la entrevista del 16/10.
+Hemos usado asistentes de IA (Gemini / Claude) para generar ideas iniciales de casos de uso y para revisar el estilo y la claridad. La selección de casos, la clasificación técnica y la evaluación ética las ha verificado el equipo. Las frases del cliente proceden de nuestras notas de la entrevista del 20/10.
