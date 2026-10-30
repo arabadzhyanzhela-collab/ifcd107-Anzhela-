@@ -1,7 +1,7 @@
 # Sprint 2 · ¿Nos fiamos de este informe? — 5Green
 
 - **Reto:** «Decidme si me puedo fiar de cada afirmación y, si no, cómo debería decirse».
-- **Fechas:** 27/10/2026 · **Roles:** Scrum Master: Anzhela · Responsable técnica: Cristina
+- **Fechas:** 26/10/2026 · **Roles:** Scrum Master: Anzhela · Responsable técnica: Cristina
 
 ## Qué se entrega (pendiente)
 
