@@ -24,10 +24,32 @@
 
 Abrir `calculos_reservas.xlsx`: cada cifra del dictamen indica la celda de la que sale.
 
-## Autoevaluación, coevaluación y retro
+## Autoevaluación (0–4)
 
-[rellenar al cerrar el sprint, con las mismas tablas que en el Sprint 0]
+| Criterio | Nota | Justificación |
+|---|---|---|
+| Corrección técnica | 3 | Cada caso tiene modalidad, tipo de aprendizaje y familia de algoritmos; incluye un caso sin IA |
+| Reproducibilidad | 3 | Documentos autocontenidos con fuentes (entrevista y datos del curso) |
+| Análisis y comunicación al cliente | 3 | Recomendación clara del piloto con coste, plazo y próximos pasos |
+| IA responsable | 3 | Semáforo por caso y checklist v1 con 4 riesgos, medidas y responsables |
+
+## Coevaluación (1–4)
+
+| Valorada / Valora | Anzhela | Cristina | Miguel | Fran | Andrii |
+|---|---|---|---|---|---|
+| Anzhela | 4 | | | | |
+| Cristina | | 4 | | | |
+| Miguel | | | 4 | | |
+| Fran | | | | 4 | |
+| Andrii | | | | | 4 |
+
+## Retrospectiva
+
+| Mantener | Mejorar | Probar |
+|---|---|---|
+| [El dinamismo y el compromiso individual con los plazos pactados desde el inicio] | [Leer con atención toda la información antes de empezar] | [Repartir las tareas al principio del sprint] |
 
 ## Declaración de uso de IA
 
-[Hemos usado … para … y hemos revisado …]
+Hemos usado asistentes de IA (Gemini / Claude) para generar ideas iniciales de casos de uso y para revisar el estilo y la claridad. La selección de casos, la clasificación técnica y la evaluación ética las ha verificado el equipo.
+
