@@ -1,7 +1,7 @@
 # Sprint 3 · Primer modelo en producción — 5Green
 
 - **Reto:** «¿Puede un modelo avisar de las reservas con riesgo de cancelarse y que mi equipo lo consulte desde otra aplicación?»
-- **Fechas:** 26–27/10/2026 · **Roles:** Scrum Master: Cristina · Responsable técnico: Andrii
+- **Fechas:** 28-30/10/2026 · **Roles:** Scrum Master: Cristina · Responsable técnico: Andrii
 
 ## Qué se entrega (pendiente)
 
