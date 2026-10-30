@@ -7,9 +7,9 @@
 
 | Archivo | Contenido | Estado |
 |---|---|---|
-| `informe_mejor_modelo.md` | Todo en un documento (máx. 4 pág.): consulta SQL y variable objetivo, columnas «trampa» eliminadas (fuga de datos), comparación de modelos de AutoML, umbral de alerta justificado en euros | Pendiente |
-| `evidencia_api.png` / `.md` | Captura o salida de una llamada real al modelo publicado como API | Pendiente |
-| `informe_costes.md` | Recursos usados, coste estimado y prueba de que se borraron al terminar | Pendiente |
+| `informe_mejor_modelo.md` | Todo en un documento (máx. 4 pág.): consulta SQL y variable objetivo, columnas «trampa» eliminadas (fuga de datos), comparación de modelos de AutoML, umbral de alerta justificado en euros | si |
+| `evidencia_api.png` / `.md` | Captura o salida de una llamada real al modelo publicado como API | si |
+| `informe_costes.md` | Recursos usados, coste estimado y prueba de que se borraron al terminar | si |
 
 ## Quién hizo qué
 
