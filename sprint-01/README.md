@@ -40,17 +40,17 @@ No hay código. Los documentos se leen directamente en GitHub.
 
 | Valorada / Valora | Anzhela | Cristina | Miguel | Fran | Andrii |
 |---|---|---|---|---|---|
-| Anzhela | — | | | | |
-| Cristina | | — | | | |
-| Miguel | | | — | | |
-| Fran | | | | — | |
-| Andrii | | | | | — |
+| Anzhela | 4 | | | | |
+| Cristina | | 4 | | | |
+| Miguel | | | 4 | | |
+| Fran | | | | 4 | |
+| Andrii | | | | | 4 |
 
 ## Retrospectiva
 
 | Mantener | Mejorar | Probar |
 |---|---|---|
-| [rellenar en la retro] | [rellenar] | [rellenar] |
+| [El dinamismo y el compromiso individual con los plazos pactados desde el inicio] | [Leer con atención toda la información antes de empezar] | [Repartir las tareas al principio del sprint] |
 
 ## Declaración de uso de IA
 
