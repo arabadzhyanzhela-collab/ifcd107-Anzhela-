@@ -2,7 +2,7 @@
 
 - **Reto:** «¿Qué cinco cosas puedo hacer con IA, cuál primero y con qué riesgos?»
 - **Cliente:** TurisData Canarias · **Fechas:** 20–21/10/2026
-- **Roles del sprint:** Scrum Master: Miguel · Responsable técnico: Andrii
+- **Roles del sprint:** Scrum Master: Anzhela · Responsable técnico: Andrii
 
 ## Qué se entrega
 
