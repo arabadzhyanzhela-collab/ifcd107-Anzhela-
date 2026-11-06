@@ -53,6 +53,5 @@ No hay código. Los documentos se leen directamente en GitHub.
 ## Declaración de uso de IA
 
 Uso específico:
-Optimización de la consulta SQL de porcentajes por canal.
 Apoyo en el ajuste del tono redactado a lenguaje ejecutivo y estructuración.
 
