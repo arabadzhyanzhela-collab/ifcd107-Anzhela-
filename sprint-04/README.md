@@ -1,9 +1,58 @@
-# Sprint 4 · Entregable
+# Sprint 4 · Reto «Herramientas internas» — 5Green
 
-- **Reto:** *(copia el nombre del reto de la ficha del sprint)*
-- **Qué se entrega:** *(notebook, documento…)*
-- **Quién hizo qué:**
-  - Persona 1:
-  - Persona 2:
-  - Persona 3:
-- **Cómo reproducirlo:** *(pasos para ejecutarlo; si es un notebook, ábrelo en Colab y ejecútalo de arriba abajo)*
+- **Reto:** «¿Puede un modelo avisar de las reservas con riesgo de cancelarse y que mi equipo lo consulte desde otra aplicación?»
+- **Fechas:** 04/11/2026 · **Roles:** Scrum Master: Cristina · Responsable técnico: Andrii
+
+## Qué se entrega (pendiente)
+
+| Archivo | Contenido | Estado |
+Reto «Herramientas internas»
+
+
+## Quién hizo qué
+
+| Persona | GitHub | Aportación |
+|---|---|---|
+| Francis | [@usuario] | Scrum Master. Columnas «trampa» y fuga de datos |
+| Miguel| [@usuario] | Responsable técnico. Consulta SQL y variable objetivo |
+| Cristina | [@usuario] | Experimento de AutoML y publicación de la API |
+| Miguel | [@usuario] | Umbral de alerta pensado en dinero |
+| Andrii | [@usuario] | Informe de recursos y costes, prueba del cierre |
+
+## Cómo reproducirlo
+
+No hay código. Los documentos se leen directamente en GitHub.
+
+## Autoevaluación (0–4)
+
+| Criterio | Nota | Justificación |
+|---|---|---|
+| Corrección técnica | 3 | Cada caso tiene modalidad, tipo de aprendizaje y familia de algoritmos; incluye un caso sin IA |
+| Reproducibilidad | 3 | Documentos autocontenidos con fuentes (entrevista y datos del curso) |
+| Análisis y comunicación al cliente | 3 | Recomendación clara del piloto con coste, plazo y próximos pasos |
+| IA responsable | 3 | Semáforo por caso y checklist v1 con 4 riesgos, medidas y responsables |
+
+## Coevaluación (1–4)
+
+| Valorada / Valora | Anzhela | Cristina | Miguel | Fran | Andrii |
+|---|---|---|---|---|---|
+| Anzhela | 4 | | | | |
+| Cristina | | 4 | | | |
+| Miguel | | | 4 | | |
+| Fran | | | | 4 | |
+| Andrii | | | | | 4 |
+
+## Retrospectiva
+
+| Mantener | Mejorar | Probar |
+|---|---|---|
+| [El dinamismo y el compromiso individual con los plazos pactados desde el inicio] | [Leer con atención toda la información antes de empezar] | [Repartir las tareas al principio del sprint] |
+
+## Declaración de uso de IA
+
+Uso específico:
+Optimización de la consulta SQL de porcentajes por canal.
+Apoyo en el ajuste del tono redactado a lenguaje ejecutivo y estructuración de la tabla Markdown.
+Comprobación manual efectuada:
+Se ejecutó el script de SQL directamente en la base turisdata.db.
+Todas las cifras numéricas, métricas (ROC-AUC 0,722), costes (100 € / 40 €) y 
