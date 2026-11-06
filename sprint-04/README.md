@@ -29,10 +29,10 @@ No hay código. Los documentos se leen directamente en GitHub.
 
 | Criterio | Nota | Justificación |
 |---|---|---|
-| Corrección técnica | 3 | Cada caso tiene modalidad, tipo de aprendizaje y familia de algoritmos; incluye un caso sin IA |
-| Reproducibilidad | 3 | Documentos autocontenidos con fuentes (entrevista y datos del curso) |
-| Análisis y comunicación al cliente | 3 | Recomendación clara del piloto con coste, plazo y próximos pasos |
-| IA responsable | 3 | Semáforo por caso y checklist v1 con 4 riesgos, medidas y responsables |
+| Corrección técnica | 3 |
+| Reproducibilidad | 3 |
+| Análisis y comunicación al cliente | 3 |
+| IA responsable | 3 | 
 
 ## Coevaluación (1–4)
 
