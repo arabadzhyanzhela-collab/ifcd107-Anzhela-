@@ -6,7 +6,9 @@
 ## Qué se entrega (pendiente)
 
 | Archivo | Contenido | Estado |
-
+Copia de S05_07_reto_ocupacion (1).ipynb
+README.md
+informe_final_sprint_05.md
 
 
 ## Quién hizo qué
