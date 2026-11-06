@@ -23,24 +23,6 @@
 
 No hay código. Los documentos se leen directamente en GitHub.
 
-## Autoevaluación (0–4)
-
-| Criterio | Nota |
-|---|---|
-| Corrección técnica | 3 |
-| Reproducibilidad | 3 |
-| Análisis y comunicación al cliente | 3 |
-| IA responsable | 3 | 
-
-## Coevaluación (1–4)
-
-| Valorada / Valora | Anzhela | Cristina | Miguel | Fran | Andrii |
-|---|---|---|---|---|---|
-| Anzhela | 4 | | | | |
-| Cristina | | 4 | | | |
-| Miguel | | | 4 | | |
-| Fran | | | | 4 | |
-| Andrii | | | | | 4 |
 
 ## Retrospectiva
 
