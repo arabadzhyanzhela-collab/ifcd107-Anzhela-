@@ -1,7 +1,7 @@
 # Sprint 4 · Reto «Herramientas internas» — 5Green
 
 - **Reto:** «¿Puede un modelo avisar de las reservas con riesgo de cancelarse y que mi equipo lo consulte desde otra aplicación?»
-- **Fechas:** 04/11/2026 · **Roles:** Scrum Master: Cristina · Responsable técnico: Andrii
+- **Fechas:** 04/11/2026 · **Roles:** Scrum Master: Francis · Responsable técnico: Miguel
 
 ## Qué se entrega (pendiente)
 
