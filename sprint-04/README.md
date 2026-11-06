@@ -48,7 +48,7 @@ No hay código. Los documentos se leen directamente en GitHub.
 
 | Mantener | Mejorar | Probar |
 |---|---|---|
-| [El dinamismo y el compromiso individual con los plazos pactados desde el inicio] | [Leer con atención toda la información antes de empezar] | [Repartir las tareas al principio del sprint] |
+| [El dinamismo y el compromiso individual con los plazos pactados desde el inicio. Repartir las tareas al principio del sprint]] | [Leer con atención toda la información antes de empezar] | [ explicar los pasos uno a otro |
 
 ## Declaración de uso de IA
 
