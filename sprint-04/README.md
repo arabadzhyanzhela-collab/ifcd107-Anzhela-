@@ -6,7 +6,9 @@
 ## Qué se entrega (pendiente)
 
 | Archivo | Contenido | Estado |
-Reto «Herramientas internas»
+README_PLANTILLA_corta (1).md
+autoevaluacion_sprint_04_5Green.xlsx
+coevaluacion_sprint_04_5Green.xlsx
 
 
 ## Quién hizo qué
@@ -52,7 +54,5 @@ No hay código. Los documentos se leen directamente en GitHub.
 
 Uso específico:
 Optimización de la consulta SQL de porcentajes por canal.
-Apoyo en el ajuste del tono redactado a lenguaje ejecutivo y estructuración de la tabla Markdown.
-Comprobación manual efectuada:
-Se ejecutó el script de SQL directamente en la base turisdata.db.
-Todas las cifras numéricas, métricas (ROC-AUC 0,722), costes (100 € / 40 €) y 
+Apoyo en el ajuste del tono redactado a lenguaje ejecutivo y estructuración.
+
