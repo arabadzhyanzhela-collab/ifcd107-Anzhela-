@@ -27,8 +27,8 @@ No hay código. Los documentos se leen directamente en GitHub.
 
 ## Autoevaluación (0–4)
 
-| Criterio | Nota | Justificación |
-|---|---|---|
+| Criterio | Nota |
+|---|---|
 | Corrección técnica | 3 |
 | Reproducibilidad | 3 |
 | Análisis y comunicación al cliente | 3 |
