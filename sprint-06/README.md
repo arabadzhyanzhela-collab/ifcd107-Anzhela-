@@ -1,4 +1,4 @@
-# Sprint 06: «¿La ocupación depende de esto? (Matemáticas en Código y Gradiente)» — 5Green
+# Sprint 06: » — 5Green
 
 - **Reto:** «¿Puede un modelo avisar de las reservas con riesgo de cancelarse y que mi equipo lo consulte desde otra aplicación?»
 - **Fechas:** 09_10/11/2026 · **Roles:**  Scrum Master: Francis ·  Responsable técnico: Miguel.
