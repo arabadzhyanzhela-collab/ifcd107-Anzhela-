@@ -3,21 +3,17 @@
 - **Reto:** «¿Puede un modelo avisar de las reservas con riesgo de cancelarse y que mi equipo lo consulte desde otra aplicación?»
 - **Fechas:** 05/11/2026 · **Roles:**  Scrum Master: Francis ·  Responsable técnico: Miguel.
 
+
 ## Qué se entrega (pendiente)
 
 | Archivo | Contenido | Estado |
 
+Copia de S05_07_reto_ocupacion (1).ipynb
 
-informe_calidad.md
-Reporte completo de calidad de datos, inventario de defectos, análisis de IA responsable y auditoría ético-técnica
-reto_S06.ipynb
-Cuaderno Jupyter ejecutable de principio a fin con EDA, función limpiar_reservas(df), ColumnTransformer (fit solo en train) y validación cruzada
-autoevaluacion_*.md
-Archivos de autoevaluación y coevaluación individual de cada integrante del equipo
+README.md
+Update README with new delivery files
 
-
-
-
+informe_final_sprint_05.md
 
 ## Quién hizo qué
 
