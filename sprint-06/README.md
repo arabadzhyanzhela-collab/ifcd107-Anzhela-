@@ -12,6 +12,8 @@
 | `reto_S06.ipynb` | Cuaderno Jupyter ejecutable de principio a fin con EDA, función `limpiar_reservas(df)`, `ColumnTransformer` (fit solo en train) y validación cruzada | Sí | 
 | `autoevaluacion_*.md` | Archivos de autoevaluación y coevaluación individual de cada integrante del equipo | Sí | 
 
+
+
 ## Quién hizo qué
 
 | Persona | GitHub | Aportación | 
