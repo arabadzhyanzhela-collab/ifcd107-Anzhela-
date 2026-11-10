@@ -1,18 +1,17 @@
-# Sprint 06: «¿La ocupación depende de esto? (Matemáticas en Código y Gradiente)» — 5Green
+# Sprint 06: «» — 5Green
 
 - **Reto:** «¿Puede un modelo avisar de las reservas con riesgo de cancelarse y que mi equipo lo consulte desde otra aplicación?»
-- **Fechas:** 05/11/2026 · **Roles:**  Scrum Master: Francis ·  Responsable técnico: Miguel.
+- **Fechas:** 06-10/11/2026 · **Roles:**  Scrum Master: Francis ·  Responsable técnico: Miguel.
 
 ## Qué se entrega (pendiente)
 
 | Archivo | Contenido | Estado |
 
-Copia de S05_07_reto_ocupacion (1).ipynb
+
 
 README.md
-Update README with new delivery files
 
-informe_final_sprint_05.md
+
 
 
 ## Quién hizo qué
@@ -34,7 +33,7 @@ No hay código. Los documentos se leen directamente en GitHub.
 
 | Mantener | Mejorar | Probar |
 |---|---|---|
-| [El dinamismo y el compromiso individual con los plazos pactados desde el inicio. Repartir las tareas al principio del sprint]] | [Leer con atención toda la información antes de empezar] | [ entender y executar |
+| [El dinamismo y el compromiso individual con los plazos pactados desde el inicio. Repartir las tareas al principio del sprint]] | [Leer con atención toda la información antes de empezar] | [ reproducir el resultado  con el mismo per corso cada participante del grupo |
 
 ## Declaración de uso de IA
 
