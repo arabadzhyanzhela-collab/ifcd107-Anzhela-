@@ -1,4 +1,4 @@
-# Sprint 05: «¿La ocupación depende de esto? (Matemáticas en Código y Gradiente)» — 5Green
+# Sprint 05: «Datos sucios, cliente impaciente — 5Green
 
 - **Reto:** «¿Puede un modelo avisar de las reservas con riesgo de cancelarse y que mi equipo lo consulte desde otra aplicación?»
 - **Fechas:** 05/11/2026 · **Roles:**  Scrum Master: Francis ·  Responsable técnico: Miguel.
@@ -7,12 +7,16 @@
 
 | Archivo | Contenido | Estado |
 
-Copia de S05_07_reto_ocupacion (1).ipynb
 
-README.md
-Update README with new delivery files
+informe_calidad.md
+Reporte completo de calidad de datos, inventario de defectos, análisis de IA responsable y auditoría ético-técnica
+reto_S06.ipynb
+Cuaderno Jupyter ejecutable de principio a fin con EDA, función limpiar_reservas(df), ColumnTransformer (fit solo en train) y validación cruzada
+autoevaluacion_*.md
+Archivos de autoevaluación y coevaluación individual de cada integrante del equipo
 
-informe_final_sprint_05.md
+
+
 
 
 ## Quién hizo qué
@@ -24,6 +28,24 @@ informe_final_sprint_05.md
 | Cristina | [@usuario] | Experimento de AutoML y publicación de la API |
 | Miguel | [@usuario] | Umbral de alerta pensado en dinero |
 | Andrii | [@usuario] | Informe de recursos y costes, prueba del cierre |
+
+
+Miguel
+[@usuario]
+Scrum Master. Evaluación comparativa del modelo Baseline (DummyClassifier) frente al clasificador y consolidación de métricas ($\text{media} \pm \text{desviación}$)
+Andrii
+[@usuario]
+Responsable técnico. Estructura del cuaderno reto_S06.ipynb, diseño del Pipeline con ColumnTransformer evitando data leakage y validación cruzada
+Cristina
+[@usuario]
+Desarrollo y documentación de la función modular limpiar_reservas(df) con docstrings y resumen de cambios
+Anzhela
+[@usuario]
+Redacción del inventario de defectos de calidad y análisis de IA Responsable en informe_calidad.md
+Fran
+[@usuario]
+Moderación del tablero Kanban, pruebas de integración del cuaderno y revisión integral de la Definition of Done (DoD)
+
 
 ## Cómo reproducirlo
 
