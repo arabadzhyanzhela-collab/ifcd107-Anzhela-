@@ -1,0 +1,9 @@
+modelo,familia,auc_cv_media,auc_cv_desv,ap_cv_media,seg_ajuste,ms_pred_1000,tamano_kb,explicabilidad_1a5,notas,auc_test
+logistica,lineal,0.7546,0.0136,0.7183,0.226,13.2,4.2,4,Coeficientes legibles (odds ratio),0.7623
+lightgbm_ajustado,ensemble_boosting,0.747,0.0152,0.7094,0.483,27.8,123.5,2,Mejor de la búsqueda aleatoria (solo train),
+lightgbm,ensemble_boosting,0.7451,0.0143,0.7062,0.849,19.5,107.2,2,Árboles en serie; rápido; caja negra,
+random_forest_ajustado,ensemble_bagging,0.7437,0.0125,0.7009,0.531,64.2,2377.9,2,"Mejor de la rejilla (GridSearchCV, solo train)",
+random_forest,ensemble_bagging,0.7373,0.0119,0.6916,3.088,181.7,11847.0,2,Muchos árboles votan; caja negra,
+svm_rbf,svm,0.7346,0.0118,0.6883,5.406,240.2,1008.8,1,Frontera curva; lenta con muchas filas,
+arbol_podado,arbol,0.7194,0.0095,0.6668,0.079,30.6,11.0,5,Se lee como reglas si/entonces,
+baseline,referencia,0.5,0.0,0.459,0.061,27.3,3.2,5,Predice siempre la proporción de cada clase,
