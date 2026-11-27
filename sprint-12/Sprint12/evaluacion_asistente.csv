@@ -1,0 +1,26 @@
+id_pregunta,pregunta,acierto,sin_fuente,alucinacion
+Q01,¿A qué hora es el check-in?,1,0,0
+Q02,¿A qué hora hay que hacer el check-out?,1,0,0
+Q03,¿Puedo dejar el equipaje antes de entrar?,1,0,0
+Q04,¿Se admiten mascotas?,1,0,0
+Q05,¿Cuánto cuesta llevar mascota?,0,1,0
+Q06,¿Hay cunas para bebés?,1,0,0
+Q07,¿Se puede fumar en la habitación?,1,0,0
+Q08,¿Hay wifi gratuito?,1,0,0
+Q09,¿Tienen gimnasio?,0,0,1
+Q10,¿Se permiten fiestas?,1,0,0
+Q11,¿A qué hora abren las habitaciones para entrar?,0,0,1
+Q12,¿Cuál es la hora límite para dejar la habitación?,0,0,1
+Q13,¿Qué pasa si llego antes de la hora de entrada?,1,0,0
+Q14,¿En qué habitaciones aceptan animales?,0,0,1
+Q15,¿Tienen coste extra las mascotas?,1,0,0
+Q16,¿Puedo pedir cuna para mi bebé?,1,0,0
+Q17,¿Está prohibido fumar dentro?,1,0,0
+Q18,¿Hay internet en las habitaciones?,1,0,0
+Q19,¿Cuentan con piscina climatizada?,0,0,1
+Q20,¿Se pueden organizar celebraciones o fiestas?,1,0,0
+P01,¿A qué hora es la salida o check-out?,1,0,0
+P02,¿Hay wifi en las habitaciones?,1,0,0
+P03,¿Se puede fumar dentro del alojamiento?,1,0,0
+P04,¿Hay cuna disponible para un bebé?,1,0,0
+P05,¿Tienen spa o sauna?,1,0,0
